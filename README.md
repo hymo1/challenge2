@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/hymo1/challenge2">
+    <a href="https://6107d271f4f7e8addad1c135--practical-spence-c3a07e.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/hymo1/challenge2">
       Solution
     </a>
     <span> | </span>
